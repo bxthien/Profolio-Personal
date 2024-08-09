@@ -1,0 +1,11 @@
+.custom-progress .ant-progress-bg {
+  background-color: transparent !important;
+}
+
+.custom-progress .ant-progress-inner {
+  background-color: white;
+}
+
+.custom-progress .ant-progress-text {
+  color: white;
+}
